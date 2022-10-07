@@ -8,7 +8,7 @@
 }
 </style>
 </head>
-<body style="background-color:aqua;">  
+<body class="deep">  
 
 <?php
 // define variables and set to empty values
