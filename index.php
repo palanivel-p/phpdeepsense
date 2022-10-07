@@ -4,7 +4,7 @@
 <style>
 .error {color: #FF0000;}
 .deep{
-  background-image: url(./img/deep.jpg);
+  background-color:skyblue;
 }
 </style>
 </head>
